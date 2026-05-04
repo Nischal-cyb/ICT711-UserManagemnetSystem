@@ -1,0 +1,11 @@
+type,id,name,email,department,performanceScore,walletBalance,status
+Standard,U001,Milan Kunwar,milan.kunwar@example.com,Development,92,125,Rewarded
+Premium,U002,Suman Adhikari,suman.adhikari@example.com,Testing,91,160,Active
+Standard,U003,Priya Sharma,priya.sharma@example.com,Support,76,90,Active
+Premium,U004,Aarav Singh,aarav.singh@example.com,Development,88,175,Active
+Standard,U005,Sneha Rai,sneha.rai@example.com,Design,69,70,Active
+Premium,U006,Rohit Gautam,rohit.gautam@example.com,Operations,95,210,Active
+Standard,U007,Anisha Karki,anisha.karki@example.com,Support,73,85,Active
+Premium,U008,Ram Bista,ram.bista@example.com,Development,86,155,Active
+Standard,U009,Kriti Poudel,kriti.poudel@example.com,Testing,79,110,Active
+Premium,U010,Nabin Thapa,nabin.thapa@example.com,Operations,93,220,Active
